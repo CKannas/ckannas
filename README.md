@@ -27,6 +27,48 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/christoskannas/)
 - Connect with me on [Twitter](https://twitter.com/CKannas)
 
+---
+## 💻 Tech Stack
+
+### 🧩 Languages
+
+<div>
+  <img src="https://img.shields.io/badge/Python-shield?style=plastic&logo=python&logoColor=yellow&color=blue" />
+</div>
+
+### ⚙️ Frameworks & Tools
+
+<div>
+  <img src="https://img.shields.io/badge/MetaFlow-shield?style=plastic&logo=metaflow&logoColor=white&color=black" />
+</div>
+
+### 🗄️ Databases
+
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-shield?style=plastic&logo=postgresql&logoColor=blue&color=white" />
+  <img src="https://img.shields.io/badge/MySQL-shield?style=plastic&logo=mysql&logoColor=blue&color=white" />
+  <img src="https://img.shields.io/badge/Oracle-shield?style=plastic&logo=oracle&logoColor=white&color=red" />
+  <img src="https://img.shields.io/badge/Neo4J-shield?style=plastic&logo=neo4j&color=white" />
+</div>
+
+### 🤖 AI & Automation
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-shield?style=plastic&logo=githubcopilot&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/ChatGPT-shield?style=plastic&logo=openai&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/OpenAI-shield?style=plastic&logo=openai&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-shield?style=plastic&logo=googlegemini&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Claude-shield?style=plastic&logo=claude&logoColor=white&color=black" />
+</div>
+
+### 🚀 CI/CD & Quality
+
+<div>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=plastic&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube%20Cloud-126ED3?style=plastic&logo=sonarqubecloud&logoColor=white" />
+</div>
+
+---
 ![Christos' GitHub Stats](./profile/stats.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
