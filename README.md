@@ -41,6 +41,7 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 <div>
   <img src="https://img.shields.io/badge/Metaflow-blue?style=plastic&logo=metaflow" />
   <img src="https://img.shields.io/badge/Streamlit-white?style=plastic&logo=streamlit" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-white?style=plastic&logo=sqlalchemy&logoColor=red" />
 </div>
 
 ### 🗄️ Databases
