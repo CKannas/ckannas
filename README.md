@@ -27,7 +27,7 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/christoskannas/)
 - Connect with me on [Twitter](https://twitter.com/CKannas)
 
-![Christos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckannas&show_icons=true&theme=tokyonight)
+![Christos' GitHub Stats](./profile/stats.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
