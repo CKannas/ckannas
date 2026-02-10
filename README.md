@@ -33,13 +33,14 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 ### 🧩 Languages
 
 <div>
-  <img src="https://img.shields.io/badge/Python-shield?style=plastic&logo=python&logoColor=yellow&color=blue" />
+  <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=yellow" />
 </div>
 
 ### ⚙️ Frameworks & Tools
 
 <div>
-  <img src="https://img.shields.io/badge/MetaFlow-shield?style=plastic&logo=metaflow&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/Metaflow-blue?style=plastic&logo=metaflow" />
+  <img src="https://img.shields.io/badge/Streamlit-white?style=plastic&logo=streamlit" />
 </div>
 
 ### 🗄️ Databases
@@ -54,11 +55,11 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 ### 🤖 AI & Automation
 
 <div>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-shield?style=plastic&logo=githubcopilot&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/ChatGPT-shield?style=plastic&logo=openai&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/OpenAI-shield?style=plastic&logo=openai&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-shield?style=plastic&logo=googlegemini&logoColor=white&color=black" />
-  <img src="https://img.shields.io/badge/Claude-shield?style=plastic&logo=claude&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-black?style=plastic&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-black?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-black?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-black?style=plastic&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-black?style=plastic&logo=claude&logoColor=white" />
 </div>
 
 ### 🚀 CI/CD & Quality
