@@ -39,18 +39,20 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 ### ⚙️ Frameworks & Tools
 
 <div>
+  <img src="https://img.shields.io/badge/rdkit-white?style=plastic&logo=rdkit" />
   <img src="https://img.shields.io/badge/Metaflow-blue?style=plastic&logo=metaflow" />
   <img src="https://img.shields.io/badge/Streamlit-white?style=plastic&logo=streamlit" />
   <img src="https://img.shields.io/badge/SQLAlchemy-white?style=plastic&logo=sqlalchemy&logoColor=red" />
+  <img src="https://img.shields.io/badge/slurm-white?style=plastic&logo=slurm" />
 </div>
 
 ### 🗄️ Databases
 
 <div>
-  <img src="https://img.shields.io/badge/PostgreSQL-shield?style=plastic&logo=postgresql&logoColor=blue&color=white" />
-  <img src="https://img.shields.io/badge/MySQL-shield?style=plastic&logo=mysql&logoColor=blue&color=white" />
-  <img src="https://img.shields.io/badge/Oracle-shield?style=plastic&logo=oracle&logoColor=white&color=red" />
-  <img src="https://img.shields.io/badge/Neo4J-shield?style=plastic&logo=neo4j&color=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-white?style=plastic&logo=mysql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Oracle-red?style=plastic&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4J-white?style=plastic&logo=neo4j" />
 </div>
 
 ### 🤖 AI & Automation
