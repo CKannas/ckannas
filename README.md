@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there%20👋&height=100&section=header)
 
-I am a dedicated Research Software Engineer specializing in designing and developing innovative software solutions for in silico drug discovery.
-By integrating computational intelligence techniques, I aim to enhance the efficiency of drug discovery and aid scientists in developing better therapeutics faster.
+Research Software Engineer and computational scientist with 15+ years of experience building scientific software, cheminformatics platforms, knowledge graphs, and large-scale workflow systems for drug discovery and data-driven research.
+ 
+I specialize in translating complex research problems into production-grade software — designing scalable data pipelines, HPC workflows, and computational infrastructure used by scientists and engineers to accelerate discovery. My work sits at the intersection of software engineering, scientific computing, and emerging AI/ML systems.
+ 
+Current interests include machine learning infrastructure, model integration workflows, and bridging research environments with robust engineering practices.
+ 
+Outside of work, I enjoy reading science-fiction, story-driven games, and painting Warhammer 40K miniatures — activities that keep creativity and curiosity alive beyond the terminal.
 
 ## 🚀 About Me
 
