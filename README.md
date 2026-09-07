@@ -79,6 +79,7 @@ You can see my full resume [here](https://registry.jsonresume.org/ckannas).
 
 ---
 ![Christos' GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
